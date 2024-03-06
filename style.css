@@ -1,0 +1,19 @@
+.header{float:left;width:100%;text-align:center;
+background-color:black;color:#ffffff;}
+
+.menu li{display:inline;text-transform:uppercase;
+padding:0em 3em 0em 3em;font-family: "Open Sans", sans-serif;
+font-size:15px;font-weight:400;}
+
+.herosection{float:left;width:100%;text-align:center;
+background-image:url('../images/sampath.jpg');
+background-repeat:no-repeat;
+background-size:100% 100%;
+color:black;padding:3em 0em 3em 0em;}
+
+.herosection h2{  font-family: "Rochester", cursive;
+font-weight:400;text-transform:capitalize;
+font-size:140px;}
+
+.herosection p{font-family: "Open Sans", sans-serif;
+font-size:24px;font-weight:400;}
